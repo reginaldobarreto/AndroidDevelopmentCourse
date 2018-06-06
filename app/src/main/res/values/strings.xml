@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Development Course</string>
+    <string name="rocket_name">Rocket Name</string>
+    <string name="lauch_date">Lauch Date</string>
+    <string name="issuccess">isSuccess</string>
+    <string name="payload">PayLoad</string>
+</resources>
